@@ -2,7 +2,7 @@
 layout: post
 title: Rails enums with same values 
 tags: ['Ruby on Rails', 'enum', 'prefix', 'suffix']
-permalink: /posts/rails-enum-prefix-suffix
+# permalink: /posts/rails-enum-prefix-suffix
 ---
 
 Rails 5 introduced a way to define multiple Enums with same values using: `_prefix` and `_suffix`.
